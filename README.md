@@ -1,1 +1,1 @@
-# LBM_OpenSource
+# OS-LBM (Open source LBM)
